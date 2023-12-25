@@ -65,4 +65,5 @@ Convert decimal numbers to binary, binary to decimal, decimal to hexadecimal, an
 
 ## License
 
-This project is licensed under the [GPL-3.0 ](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
