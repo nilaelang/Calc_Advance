@@ -15,8 +15,9 @@ float calculateTangent(float angleDegrees) {
     float angleRadians = angleDegrees * (M_PI / 180); // Convert degrees to radians
     return tan(angleRadians);
 }
-
-
+float degreesToRadians(float angleDegrees) {
+    return angleDegrees * (M_PI / 180);
+}
 // ... (previous code remains unchanged)
 
 case 1:
