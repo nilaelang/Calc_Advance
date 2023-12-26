@@ -61,7 +61,7 @@ Convert decimal numbers to binary, binary to decimal, decimal to hexadecimal, an
 ## Contributors
 
 - [Nilambar Elangbam](link-to-profile)
-- 
+- [Joymangol Chingangbam](link-to-profile)
 
 ## License
 
